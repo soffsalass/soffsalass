@@ -2,7 +2,7 @@
 
 ### Hi, I'm Sofía!
 
-👩‍💻 Highschool student sharing about my journey in tech<br/>
+👩‍💻 Highschool student at PrepaTec<br/>
 🦾 Active member of Titanium Rams (Robotics Team)<br/>
 📊 Currently doing an IBM certificate in Data Science<br/>
 
