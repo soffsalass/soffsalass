@@ -19,7 +19,8 @@
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soffsalass&layout=compact&theme=moltack&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Sofía's GitHub stats](https://github-readme-stats.vercel.app/api?username=soffsalass&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soffsalass&layout=compact&theme=moltack&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
