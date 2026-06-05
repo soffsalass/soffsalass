@@ -2,9 +2,8 @@
 
 ### Hi, I'm Sofía!
 
-👩‍💻 Highschool student at PrepaTec<br/>
-🦾 Active member of Titanium Rams (Robotics Team)<br/>
-📊 Currently doing an IBM certificate in Data Science<br/>
+👩‍💻 Incoming Actuarial Science student at Anahuac Querétaro<br/>
+📊 Interested in Data Analytics & Finance<br/>
 
 ### Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
